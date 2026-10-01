@@ -16,5 +16,5 @@ BGMファイルをバックアップするところです。
     - loop+No Hurry-Up acceleration：`__[Loop Start Sample Value]_[Loop End Sample Value]_N`
 
 ### What `_H`?
-While a track with the matching filename is playing, that track will play when the "Hurry Up" phase begins
-It does not appear in the music selection menu
+While a track with the matching filename is playing, that track will play when the "Hurry Up" phase begins.
+It does not appear in the music selection menu.
